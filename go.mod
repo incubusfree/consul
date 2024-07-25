@@ -24,7 +24,7 @@ require (
 	github.com/aws/aws-sdk-go v1.42.34
 	github.com/coredns/coredns v1.6.6
 	github.com/coreos/go-oidc v2.1.0+incompatible
-	github.com/docker/go-connections v0.3.0
+	github.com/docker/go-connections v0.5.0
 	github.com/envoyproxy/go-control-plane v0.10.2-0.20220325020618-49ff273808a1
 	github.com/fatih/color v1.13.0
 	github.com/fsnotify/fsnotify v1.5.1
@@ -126,7 +126,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.1 // indirect
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
 	github.com/DataDog/datadog-go v3.2.0+incompatible // indirect
-	github.com/Microsoft/go-winio v0.4.3 // indirect
+	github.com/Microsoft/go-winio v0.4.14 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/benbjohnson/immutable v0.4.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
