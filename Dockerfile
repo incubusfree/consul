@@ -32,7 +32,7 @@ LABEL org.opencontainers.image.authors="Consul Team <consul@hashicorp.com>" \
       version=${VERSION}
 
 # This is the location of the releases.
-ENV HASHICORP_RELEASES=https://releases.hashicorp.com
+#ENV HASHICORP_RELEASES=https://releases.hashicorp.com
 
 # Create a consul user and group first so the IDs get set the same way, even as
 # the rest of this may change over time.
